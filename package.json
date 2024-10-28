@@ -1,0 +1,27 @@
+{
+  "name": "fakestore",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/bridge": "latest",
+    "@nuxt/fonts": "^0.10.2",
+    "@pinia/nuxt": "^0.5.5",
+    "axios": "^1.7.7",
+    "nuxt": "^3.13.2",
+    "pinia": "^2.2.4",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.18.1",
+    "sass": "^1.78.0",
+    "sass-loader": "^16.0.2"
+  }
+}
