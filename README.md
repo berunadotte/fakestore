@@ -13,10 +13,10 @@
 
 ## Установка
 
-1. **Клонируйте репозиторий**:
-   git clone https://github.com/berunadotte/test_april_fakestore.git
-   cd test_april_fakestore
-2. **Установите зависимости**:
-   npm install
-3. **Запустите проект в режиме разработки**:
-   npm run dev
+1. **Клонируйте репозиторий**:  
+   git clone https://github.com/berunadotte/test_april_fakestore.git  
+   cd test_april_fakestore  
+2. **Установите зависимости**:  
+   npm install  
+3. **Запустите проект в режиме разработки**:  
+   npm run dev  
